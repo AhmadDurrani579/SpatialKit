@@ -30,11 +30,11 @@ SpatialKit is a production-grade iOS SDK that fuses ARKit visual-inertial odomet
 
 ## Navigation Videos
 
-### Indoor Navigation
-[![Indoor Navigation](./assets/indoor_nav.png)](./assets/ScreenRecording_04-14-2026 17-50-55_1.mp4)
+## Navigation Videos
 
-### Scene Understanding
-[![Scene Understanding](./assets/costa_coffee.PNG)](./assets/ScreenRecording_04-14-2026 17-53-18_1.mp4)
+<video src="./assets/ScreenRecording_04-14-2026%2017-50-55_1.mp4" controls width="700"></video>
+
+<video src="./assets/ScreenRecording_04-14-2026%2017-53-18_1.mp4" controls width="700"></video>
 
 ## Architecture
 
