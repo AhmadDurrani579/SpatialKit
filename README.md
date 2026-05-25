@@ -12,7 +12,7 @@ SpatialKit is a production-grade iOS SDK that fuses ARKit visual-inertial odomet
 
 ### Indoor AR Navigation
 <p align="center">
-  <img src="assets/indoor_nav" width="320" alt="Indoor AR Navigation — semantic labels and directional arrow overlaid in real time"/>
+  <img src="assets/indoor_nav.png" width="320" alt="Indoor AR Navigation — semantic labels and directional arrow overlaid in real time"/>
 </p>
 
 *AR directional arrow with live semantic distance labels (Houseplant · 2m, Chair · 5m, Flowerpot · 5m) and turn-by-turn navigation prompt → Houseplant · 4m*
