@@ -28,12 +28,13 @@ SpatialKit is a production-grade iOS SDK that fuses ARKit visual-inertial odomet
 
 ---
 
-### Navigation Video
+## Navigation Videos
 
-> 📹 **[Video demo — drop your MP4/GIF here]**
-> Place your video file at `assets/demo.gif` (convert from MP4 via `ffmpeg -i demo.mp4 -vf fps=10,scale=320:-1 demo.gif`) and update this section.
+### Indoor Navigation
+[![Indoor Navigation](./assets/indoor_nav.png)](./assets/ScreenRecording_04-14-2026 17-50-55_1.mp4)
 
----
+### Scene Understanding
+[![Scene Understanding](./assets/costa_coffee.PNG)](./assets/ScreenRecording_04-14-2026 17-53-18_1.mp4)
 
 ## Architecture
 
