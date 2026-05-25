@@ -6,4 +6,6 @@
 //
 
 import Foundation
+@_exported import Foundation
+@_exported import ARKit
 
